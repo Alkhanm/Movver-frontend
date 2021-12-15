@@ -1,0 +1,14 @@
+{
+  "name": "Movver",
+  "displayName": "Movver",
+  "expo": {
+    "name": "Movver",
+    "slug": "Movver",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": "",
+    "githubUrl": "https://github.com/Alkhanm"
+  }
+}
